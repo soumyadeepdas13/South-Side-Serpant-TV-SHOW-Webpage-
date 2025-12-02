@@ -2,6 +2,7 @@ The Southside serpents are a gang of dangerous criminals who predominantly resid
 Its a website about the netflix web series.
 
 📸 Website Preview :
+
 ![WhatsApp Image 2025-12-02 at 18 50 50_de63d88c](https://github.com/user-attachments/assets/96f2b692-2ef2-4039-b3ad-0de96a665d51)
 
 
