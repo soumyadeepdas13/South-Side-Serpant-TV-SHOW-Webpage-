@@ -62,6 +62,9 @@ This website is a **fan-made web experience** inspired by the *Riverdale* univer
 ---
 
 ![WhatsApp Image 2025-12-02 at 18 50 50_de63d88c](https://github.com/user-attachments/assets/96f2b692-2ef2-4039-b3ad-0de96a665d51)
+
+---
+
 <img width="780" height="430" alt="image" src="https://github.com/user-attachments/assets/0ddf3568-f0a9-409f-9c1e-bdcf1bf37040" />
 
 ---
