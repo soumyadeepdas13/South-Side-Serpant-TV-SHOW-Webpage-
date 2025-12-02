@@ -69,6 +69,7 @@ This website is a **fan-made web experience** inspired by the *Riverdale* univer
 <img width="780" height="378" alt="image" src="https://github.com/user-attachments/assets/2f22eb55-6396-4369-815d-4e6ebcca4865" />
 
 ---
+
 <img width="780" height="386" alt="image" src="https://github.com/user-attachments/assets/422a10a5-7d34-4e5d-bf95-4dfef284f215" />
 
 ---
