@@ -1,4 +1,5 @@
 The Southside serpents are a gang of dangerous criminals who predominantly reside on the south side of Riverdale….They are not solely based in Riverdale and are comprised of several sets,spreading country wide such as the Centerville Serpents and the Toledo Serpents,led by Glady’s Jones.According to Jughead ,they can also be found north of the Canada-United States border.Its a website about the netflix web series.This is a fan-made project created for learning and portfolio purposes.All characters, names, and references to Riverdale and the Southside Serpents belong to their respective owners.
+---
 
 🐍 Project Overview
 
@@ -12,7 +13,7 @@ This website is a **fan-made web experience** inspired by the *Riverdale* univer
 🎬 Two different Home Pages
   - Hero sections themed around the Southside Serpents
   - Navigation links to other sections of the site
-  - 
+
 📜 *Laws of the Serpents*
   - Card-style layout showing key “laws” and rules
   - Styled using the `L O S.css` stylesheet
